@@ -1,4 +1,4 @@
-# Calculadora
+# Calculadora JUnit
 # Descrição
   Uma calculadora simples com operaçoes basicas feita em java e usando JUnit para testes.
 # Mecanicas
