@@ -1,7 +1,7 @@
 # Calculadora
 # Descrição
   Uma calculadora simples com operaçoes basicas feita em java
-# Mecanicas
+# Mecânicas
   O projeto visa trazer uma solução simples para um usuario de uma calculadora com as operaçoes basicas (soma, subtração, multiplicação e divisão).
   A calculadora java tambem conta com um cenario de testes basico que demonstra o resultado apos a realização de uma das operação listadas acima com dois numeros.
 # Como usar
